@@ -62,31 +62,6 @@ This product is built using the following widely used technologies:
 * [Useful Links](#useful-links)
 
 
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/dashboard/volt-react)[<img src="https://themesberg.s3.us-east-2.amazonaws.com/public/github/technology/laravel-logo.jpeg" width="60" height="60" />](https://themesberg.com/product/laravel/volt-admin-dashboard-template).
-
-| HTML | React  |
-| --- | ---  |
-| [![Volt Bootstrap 5 Dashboard HTML](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-bootstrap-5-dashboard/volt-bootstrap-5-dashboard-preview.jpg)](https://github.com/themesberg/volt-bootstrap-5-dashboard) | [![Volt React Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-react-dashboard/thumbnail.png)](https://demo.themesberg.com/volt-react-dashboard/)
-
-## Demo
-
-| Dashboard | Transactions | Settings | Forms |
-| --- | --- | --- | --- |
-| [![Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/overview.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/dashboard/overview) | [![Transactions](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/transactions.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/transactions) | [![Settings](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/settings.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/settings) | [![Tables](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/tables.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/tables/bootstrap-tables)
-
-| Sign in | Sign up | Forgot password | Reset password |
-| --- | --- | --- | --- |
-| [![Sign in](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/sign-in.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/sign-in) | [![Sign up](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/sign-up.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/sign-up) | [![Forgot Password](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/forgot-password.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/forgot-password) | [![Reset password](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/reset-password.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/reset-password)
-
-| Lock Profile | 404 Not Found | 500 Server Error | Documentation |
-| --- | --- | --- | --- |
-| [![Lock Profile](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/lock.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/lock) | [![404 Not Found](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/404.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/404) | [![500 Server Error](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/500.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/examples/500) | [![Documentation](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-react-dashboard/github/docs.jpg)](https://demo.themesberg.com/volt-react-dashboard/#/documentation/quick-start)
-
--   [Live Demo](https://demo.themesberg.com/volt-react-dashboard)
--   [Download](https://themesberg.com/product/dashboard/volt-react)
-
 ## Quick start
 
 1. Register and Download from [Themesberg](https://themesberg.com/product/dashboard/volt-react) or clone this repository
@@ -221,47 +196,19 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-## Resources
-
-- Demo: <https://demo.themesberg.com/volt-react-dashboard>
-- Download Page: <https://themesberg.com/product/dashboard/volt-react>
-- Documentation: <https://demo.themesberg.com/volt-react-dashboard/#/documentation/overview>
-- License Agreement: <https://themesberg.com/licensing>
-- Support: <https://themesberg.com/contact>
-- Issues: [Github Issues Page](https://github.com/themesberg/volt-react-dashboard/issues)
-
-## Upgrade to Pro
-
-If you'd like to support this open source software, we invite you to check out the premium version of this React dashboard called [Volt Pro React Dashboard](https://themesberg.com/product/dashboard/volt-pro-react). It features over 800 React components, customized pugins, and 20 example pages.
-
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for Volt React Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of Volt React Dashboard. Check the CHANGELOG from your dashboard on our [website](https://themesberg.com/product/dashboard/volt-react#changelog).
+1. Make sure that you are using the latest version of Volt React Dashboard. Check the CHANGELOG from your dashboard on [Github](https://github.com/ediaz-smart/react-dashboard).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://themesberg.com/contact) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2021 Themesberg (Crafty Dwarf LLC) (https://themesberg.com)
-- Themesberg [license](https://themesberg.com/licensing#mit) (MIT License)
+If you have questions or need help integrating the product please [contact us](ediazsmart@gmail.com) instead of opening an issue.
 
 ## Useful Links
 
 - [React themes](https://themesberg.com/templates/react) from Themesberg
 - [Affiliate Program](https://themesberg.com/affiliate)
-
-##### Social Media
-
-Twitter: <https://twitter.com/themesberg>
-
-Facebook: <https://www.facebook.com/themesberg/>
-
-Dribbble: <https://dribbble.com/themesberg>
-
-Instagram: <https://www.instagram.com/themesberg/>
